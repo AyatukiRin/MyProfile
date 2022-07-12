@@ -1,5 +1,4 @@
 const path = require("path");
-const ForkTsCheckWebpackPlugin = require("fork-ts-checker-webpack-plugin");
 
 module.exports = {
 	entry: "./src/index.tsx",
